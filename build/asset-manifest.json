@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/javascript-games/static/css/main.f855e6bc.css",
+    "main.js": "/javascript-games/static/js/main.728f7943.js",
+    "static/js/453.cd9a7d7a.chunk.js": "/javascript-games/static/js/453.cd9a7d7a.chunk.js",
+    "index.html": "/javascript-games/index.html",
+    "main.f855e6bc.css.map": "/javascript-games/static/css/main.f855e6bc.css.map",
+    "main.728f7943.js.map": "/javascript-games/static/js/main.728f7943.js.map",
+    "453.cd9a7d7a.chunk.js.map": "/javascript-games/static/js/453.cd9a7d7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.728f7943.js"
+  ]
+}
